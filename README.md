@@ -1,6 +1,6 @@
 # Pagina web - Arquitectura
 
-    Pagina web construida bajo la tematica de la arquitectura :bricks:
+Pagina web construida bajo la tematica de la arquitectura :bricks:
 
 ## Tecnologias utilizadas:
 
