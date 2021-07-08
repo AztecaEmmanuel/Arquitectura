@@ -1,6 +1,4 @@
-# Pagina web - Arquitectura
-
-Pagina web construida bajo la tematica de la arquitectura :bricks:
+# Portafolio basico #2
 
 ## Tecnologias utilizadas:
 
